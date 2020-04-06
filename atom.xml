@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zidi98.github.io/</id>
     <title>Zidi</title>
-    <updated>2020-04-06T09:52:28.530Z</updated>
+    <updated>2020-04-06T11:55:11.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zidi98.github.io/"/>
     <link rel="self" href="https://zidi98.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://zidi98.github.io/images/avatar.png</logo>
     <icon>https://zidi98.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Zidi</rights>
+    <entry>
+        <title type="html"><![CDATA[一些可以再看一遍的截图]]></title>
+        <id>https://zidi98.github.io/post/yi-xie-ke-yi-zai-kan-yi-bian-de-jie-tu/</id>
+        <link href="https://zidi98.github.io/post/yi-xie-ke-yi-zai-kan-yi-bian-de-jie-tu/">
+        </link>
+        <updated>2020-04-06T11:53:31.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://zidi98.github.io//post-images/1586174049202.png" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://zidi98.github.io//post-images/1586174059713.PNG" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://zidi98.github.io//post-images/1586174069197.PNG" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[一些突然想起的武汉]]></title>
         <id>https://zidi98.github.io/post/yi-xie-tu-ran-xiang-qi-de-wu-han/</id>
